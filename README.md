@@ -1,6 +1,9 @@
 # Robotics-Navigation
+
 Students: PAVANSHARMA B, SUDARSHAN HEGDE, SHREYAS K R, SHREEKANTTHAIAH V
+
 Guides: Lakshmikantha K.S & K V Nagalakshmi
+
 Mobile robots are being used in different environments to reduce human intervention. Our project aims at developing one such mobile robot which can be deployed in hospital premises. The purpose of the
 robot is to provide delivery services like medicines, food, etc. to patients. The robot is capable of navigation with use of path planning algorithm. Robot path planning is about finding a collision free motion from one
 position to another.
